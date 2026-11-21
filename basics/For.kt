@@ -7,4 +7,11 @@ fun main() {
     for (name in names) {
         println(name)
     }
+
+    for ((index, name) in names.withIndex()) {
+        println("$index. $name")
+    }
+
+    // println(names)
+    // println(names.withIndex())
 }
