@@ -16,3 +16,4 @@ My Kotlin learning journey, exercises and projects.
     - 📄 [**`Boolean.kt`**](basics/Boolean.kt)
     - 📄 [**`IfElse.kt`**](basics/IfElse.kt)
     - 📄 [**`When.kt`**](basics/When.kt)
+    - 📄 [**`Ranges.kt`**](basics/Ranges.kt)
