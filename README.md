@@ -12,3 +12,4 @@ My Kotlin learning journey, exercises and projects.
     - 📄 [`StringTemplates.kt`](basics/StringTemplates.kt)
     - 📄 [`TypeInference.kt`](basics/TypeInference.kt)
     - 📄 [`Variables.kt`](basics/Variables.kt)
+    - 📄 [`Operators.kt`](basics/Operators.kt) 
