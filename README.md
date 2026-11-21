@@ -14,3 +14,4 @@ My Kotlin learning journey, exercises and projects.
     - 📄 [**`Variables.kt`**](basics/Variables.kt)
     - 📄 [**`Operators.kt`**](basics/Operators.kt)
     - 📄 [**`Boolean.kt`**](basics/Boolean.kt)
+    - 📄 [**`IfElse.kt`**](basics/IfElse.kt)
