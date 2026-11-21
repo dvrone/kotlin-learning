@@ -15,3 +15,4 @@ My Kotlin learning journey, exercises and projects.
     - 📄 [**`Operators.kt`**](basics/Operators.kt)
     - 📄 [**`Boolean.kt`**](basics/Boolean.kt)
     - 📄 [**`IfElse.kt`**](basics/IfElse.kt)
+    - 📄 [**`When.kt`**](basics/When.kt)
