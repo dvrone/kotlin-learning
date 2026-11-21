@@ -18,3 +18,4 @@ My Kotlin learning journey, exercises and projects.
     - 📄 [**`When.kt`**](basics/When.kt)
     - 📄 [**`Ranges.kt`**](basics/Ranges.kt)
     - 📄 [**`For.kt`**](basics/For.kt)
+    - 📄 [**`While.kt`**](basics/While.kt)
