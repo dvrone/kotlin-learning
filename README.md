@@ -10,6 +10,7 @@ My Kotlin learning journey, exercises and projects.
 │   ├── ChangeType.kt
 │   ├── DataTypes.kt
 │   ├── Main.kt
+│   ├── StringMethods.kt
 │   ├── StringTemplates.kt
 │   ├── TypeInference.kt
 │   └── Variables.kt
