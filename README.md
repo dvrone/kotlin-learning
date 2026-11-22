@@ -1,23 +1,24 @@
 # kotlin-learning
-My Kotlin learning journey, exercises and projects.
 
+My Kotlin learning journey, exercises and projects.
 
 ## File structure
 
-- 📂 [`basics`](basics/)
-    - 📄 [**`ChangeType.kt`**](basics/ChangeType.kt)
-    - 📄 [**`DataTypes.kt`**](basics/DataTypes.kt)
-    - 📄 [**`Main.kt`**](basics/Main.kt)
-    - 📄 [**`StringMethods.kt`**](basics/StringMethods.kt)
-    - 📄 [**`StringTemplates.kt`**](basics/StringTemplates.kt)
-    - 📄 [**`TypeInference.kt`**](basics/TypeInference.kt)
-    - 📄 [**`Variables.kt`**](basics/Variables.kt)
-    - 📄 [**`Operators.kt`**](basics/Operators.kt)
-    - 📄 [**`Boolean.kt`**](basics/Boolean.kt)
-    - 📄 [**`IfElse.kt`**](basics/IfElse.kt)
-    - 📄 [**`When.kt`**](basics/When.kt)
-    - 📄 [**`Ranges.kt`**](basics/Ranges.kt)
-    - 📄 [**`For.kt`**](basics/For.kt)
-    - 📄 [**`While.kt`**](basics/While.kt)
-    - 📄 [**`BreakAndContinue.kt`**](basics/BreakAndContinue.kt)
-    - 📄 [**`Functions.kt`**](basics/Functions.kt)
+- 📂 [`basics`](basics/) — Kotlin fundamentals and practice exercises.
+    - 📄 [`ChangeType.kt`](basics/ChangeType.kt) — Converting between data types.
+    - 📄 [`DataTypes.kt`](basics/DataTypes.kt) — Basic data types in Kotlin.
+    - 📄 [`Main.kt`](basics/Main.kt) — Main entry point of the program.
+    - 📄 [`StringMethods.kt`](basics/StringMethods.kt) — Working with String methods.
+    - 📄 [`StringTemplates.kt`](basics/StringTemplates.kt) — String templates and interpolation.
+    - 📄 [`TypeInference.kt`](basics/TypeInference.kt) — Automatic type inference.
+    - 📄 [`Variables.kt`](basics/Variables.kt) — Variables (`val` and `var`).
+    - 📄 [`Operators.kt`](basics/Operators.kt) — Arithmetic and other operators.
+    - 📄 [`Boolean.kt`](basics/Boolean.kt) — Boolean data type and logical values.
+    - 📄 [`IfElse.kt`](basics/IfElse.kt) — Conditional statements using `if` and `else`.
+    - 📄 [`When.kt`](basics/When.kt) — Using the `when` expression.
+    - 📄 [`Ranges.kt`](basics/Ranges.kt) — Working with ranges.
+    - 📄 [`For.kt`](basics/For.kt) — Using `for` loops.
+    - 📄 [`While.kt`](basics/While.kt) — Using `while` loops.
+    - 📄 [`BreakAndContinue.kt`](basics/BreakAndContinue.kt) — Controlling loop execution.
+    - 📄 [`Functions.kt`](basics/Functions.kt) — Defining and calling functions.
+
