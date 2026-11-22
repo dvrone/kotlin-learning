@@ -21,4 +21,5 @@ My Kotlin learning journey, exercises and projects.
     - 📄 [`While.kt`](basics/While.kt) — Using `while` loops.
     - 📄 [`BreakAndContinue.kt`](basics/BreakAndContinue.kt) — Controlling loop execution.
     - 📄 [`Functions.kt`](basics/Functions.kt) — Defining and calling functions.
+    - 📄 [`NullSafety.kt`](basics/NullSafety.kt)
 
