@@ -20,3 +20,4 @@ My Kotlin learning journey, exercises and projects.
     - 📄 [**`For.kt`**](basics/For.kt)
     - 📄 [**`While.kt`**](basics/While.kt)
     - 📄 [**`BreakAndContinue.kt`**](basics/BreakAndContinue.kt)
+    - 📄 [**`Functions.kt`**](basics/Functions.kt)
