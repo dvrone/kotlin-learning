@@ -23,4 +23,5 @@ My Kotlin learning journey, exercises and projects.
     - 📄 [`Functions.kt`](basics/Functions.kt) — Defining and calling functions.
     - 📄 [`NullSafety.kt`](basics/NullSafety.kt)
     - 📄 [`Array.kt`](basics/Array.kt)
+    - 📄 [`List.kt`](basics/List.kt)
 
