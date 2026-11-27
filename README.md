@@ -25,3 +25,4 @@ My Kotlin learning journey, exercises and projects.
     - 📄 [`Array.kt`](basics/Array.kt) — Working with arrays.
     - 📄 [`List.kt`](basics/List.kt) — Working with lists and collections.
     - 📄 [`Set.kt`](basics/Set.kt) — Working with sets and unique elements.
+    - 📄 [`Map.kt`](basics/Map.kt) — Working with key-value pairs in Kotlin.
