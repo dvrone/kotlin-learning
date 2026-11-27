@@ -27,3 +27,4 @@ My Kotlin learning journey, exercises and projects.
     - 📄 [`Set.kt`](basics/Set.kt) — Working with sets and unique elements.
     - 📄 [`Map.kt`](basics/Map.kt) — Working with key-value pairs in Kotlin.
     - 📄 [`UsefulFunctions.kt`](basics/UsefulFunctions.kt) — Exploring useful built-in Kotlin functions.
+    - 📄 [`Lambda.kt`](basics/Lambda.kt) — Working with lambda expressions and anonymous functions.
