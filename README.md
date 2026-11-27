@@ -21,8 +21,7 @@ My Kotlin learning journey, exercises and projects.
     - 📄 [`While.kt`](basics/While.kt) — Using `while` loops.
     - 📄 [`BreakAndContinue.kt`](basics/BreakAndContinue.kt) — Controlling loop execution.
     - 📄 [`Functions.kt`](basics/Functions.kt) — Defining and calling functions.
-    - 📄 [`NullSafety.kt`](basics/NullSafety.kt)
-    - 📄 [`Array.kt`](basics/Array.kt)
-    - 📄 [`List.kt`](basics/List.kt)
-    - 📄 [Set.kt](basics/Set.kt)
-
+    - 📄 [`NullSafety.kt`](basics/NullSafety.kt) — Handling nullable values and null safety.
+    - 📄 [`Array.kt`](basics/Array.kt) — Working with arrays.
+    - 📄 [`List.kt`](basics/List.kt) — Working with lists and collections.
+    - 📄 [`Set.kt`](basics/Set.kt) — Working with sets and unique elements.
